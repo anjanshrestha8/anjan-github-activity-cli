@@ -1,0 +1,29 @@
+{
+  "name": "anjan-github-activity-cli",
+  "version": "1.0.0",
+  "description": "This is a simple cli tool to track the activity of the github users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjanshrestha8/anjan-github-activity-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anjanshrestha8/anjan-github-activity-cli/issues"
+  },
+  "homepage": "https://github.com/anjanshrestha8/anjan-github-activity-cli#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "express": "^4.21.2",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.4.2",
+    "ora": "^8.2.0"
+  }
+}
